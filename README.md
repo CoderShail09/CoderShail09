@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ssin09559@gmail.com**
 
-- 📫 You can find my Projecta here **https://storied-bienenstitch-f20264.netlify.app**
+- 📫 You can find my Projects here **https://storied-bienenstitch-f20264.netlify.app**
 
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
