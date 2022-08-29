@@ -16,7 +16,7 @@
 - 📫 How to reach me **ssin09559@gmail.com**
 
 
-- 📫 Get my Resume here **https://drive.google.com/file/d/1Olu8UjfYJV2VEaLQJ0azBEXAZrW2cpip/view?usp=sharing**
+- 📫 Get my Resume here **https://drive.google.com/file/d/1s_w9TBJHgsopRRuOVY3-lfxRICteLQie/view?usp=sharing**
 
 
 - 📫 You can find my Projects here **https://shailportfolio.netlify.app**
