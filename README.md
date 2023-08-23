@@ -62,7 +62,11 @@
 <br/>
 <br/>
 
-<a href="https://github.com/CoderShail09/github-readme-activity-graph"><img alt="Shailendra Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CoderShail09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+Please click on the link below to view Shailendra Singh's Activity Graph. The image can be found at the provided URL. 
+
+Link: https://github.com/CoderShail09/github-readme-activity-graph 
+
+Image URL: https://activity-graph.herokuapp.com/graph?username=CoderShail09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true
 
 <br/>
 <br/>
